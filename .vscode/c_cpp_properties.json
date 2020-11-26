@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/opt/ros/melodic/include",
+                "/home/whx/WallFollow_ws/src/Clean-robot-turtlebot3/clean_robot/include",
+                "/home/whx/WallFollow_ws/src/Clean-robot-turtlebot3/explore/include",
+                "/home/whx/WallFollow_ws/src/wall_following/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
